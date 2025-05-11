@@ -41,4 +41,4 @@ Proyek ini didistribusikan di bawah lisensi MIT. Lihat `LICENSE` untuk informasi
 
 ---
 
-> Dikembangkan oleh Gede Saindra dan tim riset **Network System and Security – Research Group**.
+> Dikembangkan oleh Gede Saindra Santyadiputra.
